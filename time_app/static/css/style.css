@@ -1,0 +1,21 @@
+
+/* p {
+    border: 5px solid  black;
+    border-color: chocolate;
+    text-align: center;
+} */
+div#header{
+    border: 3px solid black;
+    width:400px;
+    text-align: center;
+    position: absolute;
+    right: 38%;
+}
+div#time {
+    border: 2px solid black;
+    width: 400px;
+    text-align: center;
+    position: absolute;
+    right: 38%;
+    top: 15%;
+}
